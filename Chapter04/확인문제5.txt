@@ -1,0 +1,8 @@
+ㄱ length()
+ㄴ toUpperCase()
+ㄷ toLowerCase()
+ㄹ trim()
+ㅁ replaceAll()
+ㅂ charAt()
+ㅅ 0
+ㅇ 4
