@@ -1,0 +1,4 @@
+java.util.Scanner
+s.nextInt();
+s.next();
+s.nextDouble();
