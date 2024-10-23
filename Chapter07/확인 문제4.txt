@@ -1,0 +1,2 @@
+1. 생성자 , Tiger
+2. value

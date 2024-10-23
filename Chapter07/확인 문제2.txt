@@ -1,0 +1,3 @@
+new Rabbit()
+
+rabbit.shape
