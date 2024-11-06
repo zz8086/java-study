@@ -1,5 +1,5 @@
 
-public class Code10_2 {
+public class Code10_02 {
 	static void drawDice() {
 		int diceNum;
 		diceNum = (int) ((Math.random() * 6) + 1);
